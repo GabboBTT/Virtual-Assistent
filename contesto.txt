@@ -1,0 +1,9 @@
+# Incolla qui sotto il materiale dell'esercizio che presenterai.
+# Le righe che iniziano con # vengono ignorate.
+#
+# Cosa conviene includere (testo semplice, anche lungo):
+#  - il testo dell'esercizio / della consegna
+#  - il codice principale e i risultati ottenuti (numeri, metriche, grafici descritti a parole)
+#  - la teoria che serve per spiegarlo
+#  - le scelte fatte e perché
+#  - i limiti della soluzione e le alternative possibili

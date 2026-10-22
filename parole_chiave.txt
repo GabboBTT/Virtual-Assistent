@@ -1,0 +1,33 @@
+# Termini tecnici che il docente potrebbe usare, uno per riga (max 100).
+# Deepgram li riconosce meglio, utile con accenti marcati. Le righe con # sono ignorate.
+AES
+S-box
+SubBytes
+side-channel
+DPA
+differential power analysis
+correlation power analysis
+Pearson correlation
+Hamming weight
+Hamming distance
+power traces
+leakage
+masking
+masked
+shares
+Boolean masking
+secret sharing
+threshold scheme
+Shamir
+XOR
+higher-order
+first-order
+key byte
+plaintext
+ciphertext
+confidentiality
+hierarchical
+LLM
+Gemini
+president
+generals
